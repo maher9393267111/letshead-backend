@@ -85,3 +85,6 @@
 /helpers/.cache/puppeteer/chrome/win64-117.0.5938.92/chrome-win64/vulkan-1.dll
 /public/invoices/
 /public/invoices/
+
+//also ignore the .env file
+.env
