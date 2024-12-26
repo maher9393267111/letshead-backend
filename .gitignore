@@ -87,4 +87,4 @@
 /public/invoices/
 
 //also ignore the .env file
-.env
+/.env
