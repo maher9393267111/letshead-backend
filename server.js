@@ -40,6 +40,7 @@ require(routePath + "contact")(app);
 require(routePath + "installQuestion")(app);
 require(routePath + "installAnswer")(app);
 require(routePath + "imageType")(app);
+
 require(routePath + "coupon")(app);
 require(routePath + "availableInstallations")(app);
 require(routePath + "localServices/jobCategory")(app);
